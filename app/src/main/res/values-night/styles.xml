@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.App.CardView.Night" parent="Widget.Material3.CardView.Filled">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.Card.Night</item>
+        <item name="cardElevation">1dp</item>
+        <item name="cardBackgroundColor">?attr/colorSurfaceContainerHigh</item>
+    </style>
+
+    <style name="ThemeOverlay.App.Card.Night" parent="">
+        <item name="colorSurface">@color/md_theme_dark_surfaceContainerHigh</item>
+        <item name="colorOnSurface">@color/md_theme_dark_onSurface</item>
+        <item name="colorPrimary">@color/md_theme_dark_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_dark_onPrimary</item>
+    </style>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Attendance Application</string>
+    <string name="staff_title">Staff Dashboard</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="edit">Edit</string>
+    <string name="content_description_search">apa</string>
+    <string name="favorite">apa\n</string>
+    <string name="content_description_favorite">paporit\n</string>
+    <string name="more">more\n</string>
+    <string name="content_description_more">deksripsi more</string>
+    <string name="seminar_title">Seminar Title</string>
+    <string name="seminar_datetime">Seminar Datetime</string>
+    <string name="seminar_description">Seminar Description</string>
+    <string name="scan_button_description">Button</string>
+</resources>

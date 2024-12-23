@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_events"
+        android:icon="@drawable/baseline_event_24"
+        android:title="Events"/>
+
+    <item
+        android:id="@+id/navigation_create"
+        android:icon="@drawable/baseline_create_24"
+        android:title="Create"/>
+
+    <item
+        android:id="@+id/navigation_attendance"
+        android:icon="@drawable/baseline_list_24"
+        android:title="Attendance"/>
+</menu>
